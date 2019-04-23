@@ -10,5 +10,10 @@ Suponha que a string vazia seja um isograma. Ignore o caso de letra (case insens
 ```
 is_isogram("Dermatoglyphics" ) ==> True
 is_isogram("aba" )             ==> False
-is_isogram("mo0se")           ==> False # existe um número
+is_isogram("mo0se")            ==> False # existe um número
+```
+
+### Testes:
+```
+  python isogram_test.py
 ```
